@@ -6,3 +6,4 @@ I am a sophomore studying Computer Science at the University Of California - Riv
 
 You can find more information about my past works on my website @ https://raymondwzeng.github.io or check out the various repositories below 👇
 
+![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondwzeng&count_private=true)
